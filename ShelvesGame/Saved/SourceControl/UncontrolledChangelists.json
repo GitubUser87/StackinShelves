@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/D3303414/Source/ShelvesGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/D3303414/Source/ShelvesGame/Content/Shelves/Maps/ShelfMap.umap"
+				"C:/Users/D3303414/Source/ShelvesGame/Content/Shelves/Maps/ShelfMap.umap",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/HUD_WBP.uasset",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
