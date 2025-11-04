@@ -5,13 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/D3303414/Source/ShelvesGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/D3303414/Source/ShelvesGame/Content/Shelves/Maps/ShelfMap.umap",
-				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/HUD_WBP.uasset",
 				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Package_BP.uasset",
-				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/StorePoint_BP.uasset",
-				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Highlight_MAT.uasset",
 				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Widgets/HUD_WBP.uasset",
 				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/MAT/Highlight_MAT.uasset",
 				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Actors/Package_BP.uasset",
@@ -20,7 +14,17 @@
 				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Actors/SpawnPoint_BP.uasset",
 				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Actors/ConveyorBelt_BP.uasset",
 				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Actors/StorePoint_BP_Child.uasset",
-				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Actors/Package_BP_Child.uasset"
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Actors/Package_BP_Child.uasset",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Widgets/MainMenu_WBP.uasset",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Maps/MainMenu.umap",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Widgets/Pause_WBP.uasset",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Actors/Monster_BP.uasset",
+				"C:/Users/D3303414/Source/ShelvesGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/D3303414/Source/ShelvesGame/Content/Shelves/Maps/ShelfMap.umap",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/HUD_WBP.uasset",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Package_BP.uasset",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/StorePoint_BP.uasset",
+				"C:/Users/D3303414/Source/StackinShelves/ShelvesGame/Content/Shelves/Highlight_MAT.uasset"
 			]
 		}
 	]
